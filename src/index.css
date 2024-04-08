@@ -1,0 +1,8 @@
+.showcase{
+  margin: 5rem auto;
+  max-width: 940px;
+  display: flex;
+  flex-wrap:wrap;
+  gap: 1rem;
+  font-size: 2rem;
+}
